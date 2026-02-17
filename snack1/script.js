@@ -16,4 +16,3 @@ for (let i = 0; i < biciclette.length; i++){
         pesoMinore = bici;
     }
 }
-console.log("la bici più leggera è:" + " "+  pesoMinore.nome + " "+ pesoMinore.peso + "kg")
